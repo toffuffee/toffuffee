@@ -4,4 +4,4 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=console.log%28'debug+0_0'%29)](https://git.io/typing-svg)
 
-![Snake animation](https://github.com/toffuffee/toffuffee/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/toffuffee/toffuffee/blob/output/snake.svg)
